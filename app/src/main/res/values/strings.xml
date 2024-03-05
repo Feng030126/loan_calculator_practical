@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Loan Calculator Pro Max Superb</string>
+    <string name="car_price">Car Price</string>
+    <string name="down_payment">Down Payment</string>
+    <string name="loan_period">Loan Period</string>
+    <string name="interest_rate">Interest Rate</string>
+    <string name="monthly_repayment">Monthly Repayment:</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="car_loan">Car Loan:</string>
+    <string name="interest">Interest:</string>
+</resources>
